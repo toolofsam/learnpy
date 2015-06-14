@@ -1,7 +1,8 @@
-print "Hello world!"
-print "Hello again"
-print "I like typing this."
-print "This is kool."
-print "Yay! Printing."
+#vi opens 
+# print "Hello world!" 
+#print "Hello again" 
+#print "I like typing this."
+#print "This is kool."
+#print "Yay! Printing."
 print "I'd much rather you 'not'."
-print 'I "said" do not touch this.'
+#print 'I "said" do not touch this.'
